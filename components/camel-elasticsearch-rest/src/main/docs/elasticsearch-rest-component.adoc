@@ -1,5 +1,5 @@
 [[elasticsearch-rest-component]]
-= Elastichsearch Rest Component
+= Elasticsearch Rest Component
 
 *Since Camel 2.21*
 
